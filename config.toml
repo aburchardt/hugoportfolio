@@ -1,5 +1,5 @@
 title = "GuldGlenn"
-baseURL = "https://example.com"
+baseURL = "http://aburchardt.dk/kea/3_semester/"
 languageCode = "da-dk"
 theme = "gohugo-theme-ananke"
 
