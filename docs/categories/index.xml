@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on GuldGlenn</title>
-    <link>http://aburchardt.dk/kea/3_semester/hugoportfolio/categories/</link>
+    <link>https://aburchardt.github.io/hugoportfolio/categories/</link>
     <description>Recent content in Categories on GuldGlenn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
     
-	<atom:link href="http://aburchardt.dk/kea/3_semester/hugoportfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aburchardt.github.io/hugoportfolio/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

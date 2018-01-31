@@ -1,5 +1,5 @@
 title = "GuldGlenn"
-baseURL = "http://aburchardt.dk/kea/3_semester/hugoportfolio/"
+baseURL = "https://aburchardt.github.io/hugoportfolio/"
 languageCode = "da-dk"
 theme = "gohugo-theme-ananke"
 publishDir = "docs"
