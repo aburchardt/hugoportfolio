@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on GuldGlenn</title>
+    <link>http://aburchardt.dk/kea/3_semester/hugoportfolio/tags/</link>
+    <description>Recent content in Tags on GuldGlenn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
+    
+	<atom:link href="http://aburchardt.dk/kea/3_semester/hugoportfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kat</title>
+      <link>http://aburchardt.dk/kea/3_semester/hugoportfolio/tags/kat/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://aburchardt.dk/kea/3_semester/hugoportfolio/tags/kat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
