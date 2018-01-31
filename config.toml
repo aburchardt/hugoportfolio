@@ -2,6 +2,7 @@ title = "GuldGlenn"
 baseURL = "http://aburchardt.dk/kea/3_semester/hugoportfolio/"
 languageCode = "da-dk"
 theme = "gohugo-theme-ananke"
+publishDir = "docs"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "da"
