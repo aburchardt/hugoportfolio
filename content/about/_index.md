@@ -3,8 +3,6 @@ title: "Om"
 description: "Om Danmarks største stjerne!"
 featured_image: 'img/guldglenn.jpg'
 ---
-{{< figure src="/img/about.jpg" title="GuldGlenn går mod solnedgangen" >}}
-
 ### Grunde til at GuldGlenn er bedre end de andre kunstnere:
 * Pels
 * Pels
@@ -15,6 +13,8 @@ featured_image: 'img/guldglenn.jpg'
 * Se mine katte
 * Kattejammerrock _(Cover)_
 * Katten efter musen
+
+{{< figure src="/img/about.jpg" title="GuldGlenn går mod solnedgangen" >}}
 
 Illum relinqueret incurreret dolor mentitum nam possumus hic nisi laborum an et 
 nisi fabulas instituendarum, nisi eruditionem senserit ipsum appellat iis in 
