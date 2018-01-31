@@ -1,86 +1,40 @@
 ---
 date: 2017-04-12T11:14:48-04:00
-description: "Master Jacques Coppenole"
+description: "Kattejammerrock (Cover)"
 featured_image: ""
-tags: ["scene"]
-title: "Chapter IV: Master Jacques Coppenole"
+tags: ["kat"]
+title: "Kattejammerrock (Cover)"
 ---
-While the pensioner of Ghent and his eminence were exchanging very low
-bows and a few words in voices still lower, a man of lofty stature, with a
-large face and broad shoulders, presented himself, in order to enter
-abreast with Guillaume Rym; one would have pronounced him a bull-dog by
-the side of a fox. His felt doublet and leather jerkin made a spot on the
-velvet and silk which surrounded him. Presuming that he was some groom who
-had stolen in, the usher stopped him.
+E dolore ullamco praesentibus. An nescius imitarentur. Est quo dolor singulis ne 
+ubi cupidatat distinguantur. Quis consequat imitarentur, te duis tamen si 
+cupidatat qui consequat e minim possumus, fugiat se de nulla vidisse ex ita o 
+fugiat laboris si eu admodum reprehenderit ex quibusdam anim quid fabulas illum 
+ab id cillum e multos. Quo te domesticarum, ut multos quamquam graviterque, 
+fabulas an incididunt, est quo sunt dolore varias. Non summis legam aut 
+incididunt ut cillum comprehenderit mandaremus dolor quamquam, nulla iudicem iis 
+culpa illum, aliquip hic quorum. Cernantur ubi nulla officia. Elit quo quo 
+fugiat vidisse eu senserit quid proident nescius.
 
-“Hold, my friend, you cannot pass!”
+E multos ea quem non minim sed probant si vidisse si litteris, elit iudicem ne 
+quibusdam, et fore varias lorem cupidatat iis quo amet eiusmod transferrem est 
+deserunt non sint officia et minim quo singulis ex irure. Ex magna arbitror 
+probant, illum appellat comprehenderit. Ex enim vidisse. E non ipsum aliquip, 
+tamen philosophari vidisse summis admodum aut aute a eu quorum incididunt, 
+doctrina dolor tamen et illum. Incididunt lorem occaecat nostrud hic nam laborum 
+hic expetendis ut tempor iis quae e summis est ubi quis offendit. Tempor quorum 
+o laboris concursionibus, ex aliqua aliquip litteris, pariatur velit nulla 
+admodum nulla, eiusmod duis illum mandaremus veniam ut minim in ex veniam 
+cupidatat te tempor noster te mandaremus exquisitaque, excepteur aut varias 
+quibusdam do admodum quis probant.
 
-The man in the leather jerkin shouldered him aside.
-
-“What does this knave want with me?” said he, in stentorian tones, which
-rendered the entire hall attentive to this strange colloquy. “Don’t you
-see that I am one of them?”
-
-“Your name?” demanded the usher.
-
-“Jacques Coppenole.”
-
-“Your titles?”
-
-“Hosier at the sign of the ‘Three Little Chains,’ of Ghent.”
-
-The usher recoiled. One might bring one’s self to announce aldermen and
-burgomasters, but a hosier was too much. The cardinal was on thorns. All
-the people were staring and listening. For two days his eminence had been
-exerting his utmost efforts to lick these Flemish bears into shape, and to
-render them a little more presentable to the public, and this freak was
-startling. But Guillaume Rym, with his polished smile, approached the
-usher.
-
-“Announce Master Jacques Coppenole, clerk of the aldermen of the city of
-Ghent,” he whispered, very low.
-
-“Usher,” interposed the cardinal, aloud, “announce Master Jacques
-Coppenole, clerk of the aldermen of the illustrious city of Ghent.”
-
-This was a mistake. Guillaume Rym alone might have conjured away the
-difficulty, but Coppenole had heard the cardinal.
-
-“No, cross of God?” he exclaimed, in his voice of thunder, “Jacques
-Coppenole, hosier. Do you hear, usher? Nothing more, nothing less. Cross
-of God! hosier; that’s fine enough. Monsieur the Archduke has more than
-once sought his _gant_\* in my hose.”
-
-_*  Got the first idea of a timing._
-
-Laughter and applause burst forth. A jest is always understood in Paris,
-and, consequently, always applauded.
-
-Let us add that Coppenole was of the people, and that the auditors which
-surrounded him were also of the people. Thus the communication between him
-and them had been prompt, electric, and, so to speak, on a level. The
-haughty air of the Flemish hosier, by humiliating the courtiers, had
-touched in all these plebeian souls that latent sentiment of dignity still
-vague and indistinct in the fifteenth century.
-
-This hosier was an equal, who had just held his own before monsieur the
-cardinal. A very sweet reflection to poor fellows habituated to respect
-and obedience towards the underlings of the sergeants of the bailiff of
-Sainte-Geneviève, the cardinal’s train-bearer.
-
-Coppenole proudly saluted his eminence, who returned the salute of the
-all-powerful bourgeois feared by Louis XI. Then, while Guillaume Rym, a
-“sage and malicious man,” as Philippe de Comines puts it, watched them
-both with a smile of raillery and superiority, each sought his place, the
-cardinal quite abashed and troubled, Coppenole tranquil and haughty, and
-thinking, no doubt, that his title of hosier was as good as any other,
-after all, and that Marie of Burgundy, mother to that Marguerite whom
-Coppenole was to-day bestowing in marriage, would have been less afraid of
-the cardinal than of the hosier; for it is not a cardinal who would have
-stirred up a revolt among the men of Ghent against the favorites of the
-daughter of Charles the Bold; it is not a cardinal who could have
-fortified the populace with a word against her tears and prayers, when the
-Maid of Flanders came to supplicate her people in their behalf, even at
-the very foot of the scaffold; while the hosier had only to raise his
-leather elbow, in order to cause to fall your two heads, most illustrious
-seigneurs, Guy d’Hymbercourt and Chancellor Guillaume Hugonet.
+Probant duis an ullamco illustriora. Ut quem nostrud incurreret, ad fore 
+offendit. Labore id possumus ab malis o quorum eiusmod si admodum, voluptate 
+quis summis in quorum de ita sunt expetendis te hic dolor nisi hic cernantur, 
+mentitum ab varias nostrud a nam nulla concursionibus te probant eram summis ita 
+elit. Fore se quibusdam ex duis sed nam nam illum sunt legam. Vidisse fore 
+mentitum e an aliquip graviterque o culpa in vidisse qui possumus ut incididunt 
+non ita sint officia te veniam appellat an cillum quae, summis laboris si 
+vidisse te nulla eiusmod a concursionibus. Expetendis sint nostrud non sed quae 
+incurreret eruditionem ad quae illustriora consequat duis aliquip, ad varias 
+eiusmod exquisitaque. Quibusdam malis voluptate. Quis reprehenderit litteris 
+varias nostrud de o elit incididunt fabulas.

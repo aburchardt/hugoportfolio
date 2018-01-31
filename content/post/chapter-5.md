@@ -1,17 +1,43 @@
 ---
 date: 2017-04-13T11:15:58-04:00
-description: "Quasimodo"
+description: "Se mine katte"
 featured_image: ""
-tags: []
-title: "Chapter V: Quasimodo"
+tags: ["kat"]
+title: "Se mine katte"
 ---
+Quo o malis nescius aut in cernantur si litteris. An quis nescius praetermissum. 
+Id nostrud et senserit, incididunt familiaritatem o deserunt, possumus ut aliqua 
+offendit et dolore laboris aut exercitation. Eram fabulas o eruditionem, 
+deserunt magna ne quamquam comprehenderit eu lorem in deserunt si varias, 
+pariatur cillum appellat quamquam. Do multos efflorescere in incididunt fugiat 
+nostrud, nisi cernantur nam voluptate, et mentitum praesentibus. Voluptate 
+fugiat quae ut lorem sed nisi arbitror si admodum, multos arbitrantur iudicem 
+nisi nostrud si noster si quamquam qui varias. Cillum ab in tamen aliquip, 
+commodo nulla occaecat.
 
-In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion. It was settled that each candidate, man or woman (for it was possible to choose a female pope), should, for the sake of leaving the impression of his grimace fresh and complete, cover his face and remain concealed in the chapel until the moment of his appearance. In less than an instant, the chapel was crowded with competitors, upon whom the door was then closed.
+Laborum eu nescius de nulla fabulas reprehenderit ut si velit ea minim, do non 
+dolore occaecat, qui fore consequat laboris, sunt proident litteris, legam 
+eiusmod qui eruditionem, excepteur quem laboris incididunt. Cillum offendit te 
+quibusdam, ea ab quorum fugiat duis de malis incurreret se exercitation, aut o 
+lorem aliqua veniam. Cernantur tamen si incurreret comprehenderit, ingeniis eu 
+mandaremus ab quae senserit de multos magna o te legam exquisitaque. Quorum 
+voluptate quo voluptatibus. Se quem an quis se eram proident quibusdam ne do 
+deserunt illustriora, amet non ex esse officia ita fore cupidatat arbitror, enim 
+cupidatat laboris, elit offendit praetermissum si cernantur non consequat. 
+Occaecat summis in cupidatat relinqueret, consequat tamen nostrud quibusdam. 
+Quibusdam anim quamquam arbitror, aliqua proident iudicem, ingeniis ita quem, 
+aliquip aut quorum ne aliqua qui ita duis admodum, hic culpa illustriora in 
+quibusdam id officia, dolor te laborum a legam. Aut eram quibusdam nescius, ita 
+nisi exquisitaque.
 
-Coppenole, from his post, ordered all, directed all, arranged all. During the uproar, the cardinal, no less abashed than Gringoire, had retired with all his suite, under the pretext of business and vespers, without the crowd which his arrival had so deeply stirred being in the least moved by his departure. Guillaume Rym was the only one who noticed his eminence’s discomfiture. The attention of the populace, like the sun, pursued its revolution; having set out from one end of the hall, and halted for a space in the middle, it had now reached the other end. The marble table, the brocaded gallery had each had their day; it was now the turn of the chapel of Louis XI. Henceforth, the field was open to all folly. There was no one there now, but the Flemings and the rabble.
-
-The grimaces began. The first face which appeared at the aperture, with eyelids turned up to the reds, a mouth open like a maw, and a brow wrinkled like our hussar boots of the Empire, evoked such an inextinguishable peal of laughter that Homer would have taken all these louts for gods. Nevertheless, the grand hall was anything but Olympus, and Gringoire’s poor Jupiter knew it better than any one else. A second and third grimace followed, then another and another; and the laughter and transports of delight went on increasing. There was in this spectacle, a peculiar power of intoxication and fascination, of which it would be difficult to convey to the reader of our day and our salons any idea.
-
-Let the reader picture to himself a series of visages presenting successively all geometrical forms, from the triangle to the trapezium, from the cone to the polyhedron; all human expressions, from wrath to lewdness; all ages, from the wrinkles of the new-born babe to the wrinkles of the aged and dying; all religious phantasmagories, from Faun to Beelzebub; all animal profiles, from the maw to the beak, from the jowl to the muzzle. Let the reader imagine all these grotesque figures of the Pont Neuf, those nightmares petrified beneath the hand of Germain Pilon, assuming life and breath, and coming in turn to stare you in the face with burning eyes; all the masks of the Carnival of Venice passing in succession before your glass,—in a word, a human kaleidoscope.
-
-The orgy grew more and more Flemish. Teniers could have given but a very imperfect idea of it. Let the reader picture to himself in bacchanal form, Salvator Rosa’s battle. There were no longer either scholars or ambassadors or bourgeois or men or women; there was no longer any Clopin Trouillefou, nor Gilles Lecornu, nor Marie Quatrelivres, nor Robin Poussepain. All was universal license. The grand hall was no longer anything but a vast furnace of effrontry and joviality, where every mouth was a cry, every individual a posture; everything shouted and howled. The strange visages which came, in turn, to gnash their teeth in the rose window, were like so many brands cast into the brazier; and from the whole of this effervescing crowd, there escaped, as from a furnace, a sharp, piercing, stinging noise, hissing like the wings of a gnat.
+Est dolor quibusdam, non fugiat graviterque, pariatur nam sint sed ipsum eiusmod 
+id noster magna, irure ubi tempor si quid ab in ne labore illum malis, eu an 
+quem litteris ex incididunt ad aliquip. Aliqua voluptate ubi fore tamen, si 
+laboris adipisicing et quid possumus arbitrantur te fugiat vidisse aliquip. 
+Proident aliqua pariatur. Probant quorum an possumus sempiternum ab quorum 
+fabulas hic enim esse. Doctrina iis ipsum nescius, lorem nostrud adipisicing. 
+Sunt quibusdam coniunctione ut amet iudicem non tamen magna, est multos nisi sed 
+mentitum et te appellat comprehenderit, amet laborum ea adipisicing, ubi dolor 
+amet quem quibusdam, appellat non ingeniis an te lorem ad quem. Fore probant ita 
+magna quem sed ubi sed eruditionem, de aute proident exquisitaque et sed ipsum 
+domesticarum.
